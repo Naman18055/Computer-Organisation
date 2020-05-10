@@ -1,5 +1,5 @@
 # ASSEMBLER : 
-Assembler is a program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.\
+Assembler is a program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.
 
 # HOW TO RUN :
 • Open terminal and go to the Assembler directory.\
