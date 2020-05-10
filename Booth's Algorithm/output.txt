@@ -1,0 +1,800 @@
+Input #1
+a=0
+b=1
+Result of Multiplication:
+In decimal: 0
+In binary: 0000000000000000000000
+
+
+Input #2
+a=0
+b=-8
+Result of Multiplication:
+In decimal: 0
+In binary: 0000000000000000000000
+
+
+Input #3
+a=9
+b=16
+Result of Multiplication:
+In decimal: 144
+In binary: 0000000000000010010000
+
+
+Input #4
+a=-27
+b=-3
+Result of Multiplication:
+In decimal: 81
+In binary: 0000000000000001010001
+
+
+Input #5
+a=17
+b=33
+Result of Multiplication:
+In decimal: 561
+In binary: 0000000000001000110001
+
+
+Input #6
+a=-46
+b=15
+Result of Multiplication:
+In decimal: -690
+In binary: 1111111111110101001110
+
+
+Input #7
+a=-60
+b=-35
+Result of Multiplication:
+In decimal: 2100
+In binary: 0000000000100000110100
+
+
+Input #8
+a=-15
+b=-57
+Result of Multiplication:
+In decimal: 855
+In binary: 0000000000001101010111
+
+
+Input #9
+a=19
+b=44
+Result of Multiplication:
+In decimal: 836
+In binary: 0000000000001101000100
+
+
+Input #10
+a=-6
+b=40
+Result of Multiplication:
+In decimal: -240
+In binary: 1111111111111100010000
+
+
+Input #11
+a=-65
+b=-35
+Result of Multiplication:
+In decimal: 2275
+In binary: 0000000000100011100011
+
+
+Input #12
+a=82
+b=-96
+Result of Multiplication:
+In decimal: -7872
+In binary: 1111111110000101000000
+
+
+Input #13
+a=43
+b=75
+Result of Multiplication:
+In decimal: 3225
+In binary: 0000000000110010011001
+
+
+Input #14
+a=-73
+b=123
+Result of Multiplication:
+In decimal: -8979
+In binary: 1111111101110011101101
+
+
+Input #15
+a=-4
+b=45
+Result of Multiplication:
+In decimal: -180
+In binary: 1111111111111101001100
+
+
+Input #16
+a=7
+b=141
+Result of Multiplication:
+In decimal: 987
+In binary: 0000000000001111011011
+
+
+Input #17
+a=0
+b=-122
+Result of Multiplication:
+In decimal: 0
+In binary: 0000000000000000000000
+
+
+Input #18
+a=66
+b=38
+Result of Multiplication:
+In decimal: 2508
+In binary: 0000000000100111001100
+
+
+Input #19
+a=-58
+b=119
+Result of Multiplication:
+In decimal: -6902
+In binary: 1111111110010100001010
+
+
+Input #20
+a=-24
+b=-34
+Result of Multiplication:
+In decimal: 816
+In binary: 0000000000001100110000
+
+
+Input #21
+a=134
+b=-60
+Result of Multiplication:
+In decimal: -8040
+In binary: 1111111110000010011000
+
+
+Input #22
+a=81
+b=100
+Result of Multiplication:
+In decimal: 8100
+In binary: 0000000001111110100100
+
+
+Input #23
+a=168
+b=-7
+Result of Multiplication:
+In decimal: -1176
+In binary: 1111111111101101101000
+
+
+Input #24
+a=-131
+b=77
+Result of Multiplication:
+In decimal: -10087
+In binary: 1111111101100010011001
+
+
+Input #25
+a=-75
+b=211
+Result of Multiplication:
+In decimal: -15825
+In binary: 1111111100001000101111
+
+
+Input #26
+a=174
+b=172
+Result of Multiplication:
+In decimal: 29928
+In binary: 0000000111010011101000
+
+
+Input #27
+a=-239
+b=185
+Result of Multiplication:
+In decimal: -44215
+In binary: 1111110101001101001001
+
+
+Input #28
+a=-237
+b=233
+Result of Multiplication:
+In decimal: -55221
+In binary: 1111110010100001001011
+
+
+Input #29
+a=60
+b=-196
+Result of Multiplication:
+In decimal: -11760
+In binary: 1111111101001000010000
+
+
+Input #30
+a=-7
+b=132
+Result of Multiplication:
+In decimal: -924
+In binary: 1111111111110001100100
+
+
+Input #31
+a=99
+b=200
+Result of Multiplication:
+In decimal: 19800
+In binary: 0000000100110101011000
+
+
+Input #32
+a=192
+b=236
+Result of Multiplication:
+In decimal: 45312
+In binary: 0000001011000100000000
+
+
+Input #33
+a=269
+b=143
+Result of Multiplication:
+In decimal: 38467
+In binary: 0000001001011001000011
+
+
+Input #34
+a=-3
+b=-295
+Result of Multiplication:
+In decimal: 885
+In binary: 0000000000001101110101
+
+
+Input #35
+a=-47
+b=137
+Result of Multiplication:
+In decimal: -6439
+In binary: 1111111110011011011001
+
+
+Input #36
+a=69
+b=272
+Result of Multiplication:
+In decimal: 18768
+In binary: 0000000100100101010000
+
+
+Input #37
+a=-260
+b=106
+Result of Multiplication:
+In decimal: -27560
+In binary: 1111111001010001011000
+
+
+Input #38
+a=-301
+b=140
+Result of Multiplication:
+In decimal: -42140
+In binary: 1111110101101101100100
+
+
+Input #39
+a=-265
+b=-51
+Result of Multiplication:
+In decimal: 13515
+In binary: 0000000011010011001011
+
+
+Input #40
+a=-351
+b=203
+Result of Multiplication:
+In decimal: -71253
+In binary: 1111101110100110101011
+
+
+Input #41
+a=-50
+b=-239
+Result of Multiplication:
+In decimal: 11950
+In binary: 0000000010111010101110
+
+
+Input #42
+a=-10
+b=19
+Result of Multiplication:
+In decimal: -190
+In binary: 1111111111111101000010
+
+
+Input #43
+a=46
+b=397
+Result of Multiplication:
+In decimal: 18262
+In binary: 0000000100011101010110
+
+
+Input #44
+a=-420
+b=209
+Result of Multiplication:
+In decimal: -87780
+In binary: 1111101010100100011100
+
+
+Input #45
+a=-88
+b=51
+Result of Multiplication:
+In decimal: -4488
+In binary: 1111111110111001111000
+
+
+Input #46
+a=-11
+b=-235
+Result of Multiplication:
+In decimal: 2585
+In binary: 0000000000101000011001
+
+
+Input #47
+a=-232
+b=241
+Result of Multiplication:
+In decimal: -55912
+In binary: 1111110010010110011000
+
+
+Input #48
+a=9
+b=346
+Result of Multiplication:
+In decimal: 3114
+In binary: 0000000000110000101010
+
+
+Input #49
+a=381
+b=-231
+Result of Multiplication:
+In decimal: -88011
+In binary: 1111101010100000110101
+
+
+Input #50
+a=-159
+b=409
+Result of Multiplication:
+In decimal: -65031
+In binary: 1111110000000111111001
+
+
+Input #51
+a=270
+b=-178
+Result of Multiplication:
+In decimal: -48060
+In binary: 1111110100010001000100
+
+
+Input #52
+a=-258
+b=-47
+Result of Multiplication:
+In decimal: 12126
+In binary: 0000000010111101011110
+
+
+Input #53
+a=-210
+b=53
+Result of Multiplication:
+In decimal: -11130
+In binary: 1111111101010010000110
+
+
+Input #54
+a=422
+b=-99
+Result of Multiplication:
+In decimal: -41778
+In binary: 1111110101110011001110
+
+
+Input #55
+a=359
+b=-35
+Result of Multiplication:
+In decimal: -12565
+In binary: 1111111100111011101011
+
+
+Input #56
+a=-359
+b=362
+Result of Multiplication:
+In decimal: -129958
+In binary: 1111100000010001011010
+
+
+Input #57
+a=-63
+b=40
+Result of Multiplication:
+In decimal: -2520
+In binary: 1111111111011000101000
+
+
+Input #58
+a=346
+b=-76
+Result of Multiplication:
+In decimal: -26296
+In binary: 1111111001100101001000
+
+
+Input #59
+a=-242
+b=430
+Result of Multiplication:
+In decimal: -104060
+In binary: 1111100110100110000100
+
+
+Input #60
+a=241
+b=478
+Result of Multiplication:
+In decimal: 115198
+In binary: 0000011100000111111110
+
+
+Input #61
+a=-289
+b=349
+Result of Multiplication:
+In decimal: -100861
+In binary: 1111100111011000000011
+
+
+Input #62
+a=-170
+b=126
+Result of Multiplication:
+In decimal: -21420
+In binary: 1111111010110001010100
+
+
+Input #63
+a=-279
+b=-83
+Result of Multiplication:
+In decimal: 23157
+In binary: 0000000101101001110101
+
+
+Input #64
+a=295
+b=181
+Result of Multiplication:
+In decimal: 53395
+In binary: 0000001101000010010011
+
+
+Input #65
+a=506
+b=-91
+Result of Multiplication:
+In decimal: -46046
+In binary: 1111110100110000100010
+
+
+Input #66
+a=-348
+b=-35
+Result of Multiplication:
+In decimal: 12180
+In binary: 0000000010111110010100
+
+
+Input #67
+a=-404
+b=355
+Result of Multiplication:
+In decimal: -143420
+In binary: 1111011100111111000100
+
+
+Input #68
+a=-134
+b=214
+Result of Multiplication:
+In decimal: -28676
+In binary: 1111111000111111111100
+
+
+Input #69
+a=-348
+b=443
+Result of Multiplication:
+In decimal: -154164
+In binary: 1111011010010111001100
+
+
+Input #70
+a=-520
+b=304
+Result of Multiplication:
+In decimal: -158080
+In binary: 1111011001011010000000
+
+
+Input #71
+a=-624
+b=-83
+Result of Multiplication:
+In decimal: 51792
+In binary: 0000001100101001010000
+
+
+Input #72
+a=-536
+b=211
+Result of Multiplication:
+In decimal: -113096
+In binary: 1111100100011000111000
+
+
+Input #73
+a=-298
+b=-681
+Result of Multiplication:
+In decimal: 202938
+In binary: 0000110001100010111010
+
+
+Input #74
+a=-476
+b=642
+Result of Multiplication:
+In decimal: -305592
+In binary: 1110110101011001001000
+
+
+Input #75
+a=272
+b=213
+Result of Multiplication:
+In decimal: 57936
+In binary: 0000001110001001010000
+
+
+Input #76
+a=-219
+b=-97
+Result of Multiplication:
+In decimal: 21243
+In binary: 0000000101001011111011
+
+
+Input #77
+a=369
+b=-576
+Result of Multiplication:
+In decimal: -212544
+In binary: 1111001100000111000000
+
+
+Input #78
+a=-331
+b=310
+Result of Multiplication:
+In decimal: -102610
+In binary: 1111100110111100101110
+
+
+Input #79
+a=-352
+b=-66
+Result of Multiplication:
+In decimal: 23232
+In binary: 0000000101101011000000
+
+
+Input #80
+a=425
+b=323
+Result of Multiplication:
+In decimal: 137275
+In binary: 0000100001100000111011
+
+
+Input #81
+a=-346
+b=269
+Result of Multiplication:
+In decimal: -93074
+In binary: 1111101001010001101110
+
+
+Input #82
+a=-74
+b=46
+Result of Multiplication:
+In decimal: -3404
+In binary: 1111111111001010110100
+
+
+Input #83
+a=525
+b=294
+Result of Multiplication:
+In decimal: 154350
+In binary: 0000100101101011101110
+
+
+Input #84
+a=-245
+b=-53
+Result of Multiplication:
+In decimal: 12985
+In binary: 0000000011001010111001
+
+
+Input #85
+a=487
+b=512
+Result of Multiplication:
+In decimal: 249344
+In binary: 0000111100111000000000
+
+
+Input #86
+a=426
+b=-428
+Result of Multiplication:
+In decimal: -182328
+In binary: 1111010011011111001000
+
+
+Input #87
+a=-809
+b=336
+Result of Multiplication:
+In decimal: -271824
+In binary: 1110111101101000110000
+
+
+Input #88
+a=493
+b=-273
+Result of Multiplication:
+In decimal: -134589
+In binary: 1111011111001001000011
+
+
+Input #89
+a=-100
+b=181
+Result of Multiplication:
+In decimal: -18100
+In binary: 1111111011100101001100
+
+
+Input #90
+a=-570
+b=-717
+Result of Multiplication:
+In decimal: 408690
+In binary: 0001100011110001110010
+
+
+Input #91
+a=-447
+b=-277
+Result of Multiplication:
+In decimal: 123819
+In binary: 0000011110001110101011
+
+
+Input #92
+a=-587
+b=-455
+Result of Multiplication:
+In decimal: 267085
+In binary: 0001000001001101001101
+
+
+Input #93
+a=-729
+b=-111
+Result of Multiplication:
+In decimal: 80919
+In binary: 0000010011110000010111
+
+
+Input #94
+a=-383
+b=-146
+Result of Multiplication:
+In decimal: 55918
+In binary: 0000001101101001101110
+
+
+Input #95
+a=-508
+b=270
+Result of Multiplication:
+In decimal: -137160
+In binary: 1111011110100000111000
+
+
+Input #96
+a=-696
+b=283
+Result of Multiplication:
+In decimal: -196968
+In binary: 1111001111111010011000
+
+
+Input #97
+a=154
+b=724
+Result of Multiplication:
+In decimal: 111496
+In binary: 0000011011001110001000
+
+
+Input #98
+a=-228
+b=955
+Result of Multiplication:
+In decimal: -217740
+In binary: 1111001010110101110100
+
+
+Input #99
+a=0
+b=-399
+Result of Multiplication:
+In decimal: 0
+In binary: 0000000000000000000000
+
+
+Input #100
+a=-730
+b=387
+Result of Multiplication:
+In decimal: -282510
+In binary: 1110111011000001110010
+
+
