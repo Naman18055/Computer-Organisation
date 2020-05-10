@@ -1,3 +1,6 @@
+# ASSEMBLER : 
+Assembler is a program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.\
+
 # HOW TO RUN :
 • Open terminal and go to the Assembler directory.\
 • Type “python3 code.py”.\
@@ -6,7 +9,7 @@ input.txt file in the folder.\
 • Also 3 files will be created in the same directory representing Symbol Table,
 Opcode Table and Machine Code.
 
-# DESCRIPTION OF THE FILE:
+# DESCRIPTION OF THE FILE :
 • The zip file consists of the Assembler Documentation, input.txt, code.py, opcode.txt, label.txt, machinecode.txt, opcodetable.txt.\
 • Input.txt consists of a sample input to generate a sample Machine code. The Assembly code which needs to be changed to the machine code should be pasted in the input.txt.\
 • Code.py contains the actual code to convert assembly code into machine code.\
@@ -17,7 +20,7 @@ defined opcodes are shown at the bottom of this document.\
 • Label.txt shows all the labels.\
 • Opcodetable.txt shows all the opcodes provided.
 
-# WORKING:
+# WORKING :
 Opcode table check -\
 • The Opcode table is checked if same instruction is assigned multiple OPCODES. If true error is raised.
 
@@ -38,11 +41,11 @@ Second Pass -\
 • Label definition : Checks for the symbol “:” used\
     Generates the machine code of the instruction defined after “:” , and stores it at the value provided by the LC
 
-# FILES GENERATED:
+# FILES GENERATED :
 • label.txt will be generated which shows the symbol table.\
 • opcodetable.txt will be generated which shows the opcode table which consists of Opcodes used , their code , operand used with them and instruction length. Machinecode.txt will be generated which shows the machine code as output.
 
-# ERRORS HANDLED:
+# ERRORS HANDLED :
 1)A symbol has been used but not defined.\
 2)A symbol has been defined more than once.\
 3)The name in the opcode field is not a legal opcode.\
